@@ -1,3 +1,3 @@
 # Yay My first commit!
  
- Remove email from global .gitconfig
+ Added emoji to this project's .git/config's user name
