@@ -1,3 +1,3 @@
 # Yay My first commit!
  
- Test user name change without emoji
+ Remove email from global .gitconfig
